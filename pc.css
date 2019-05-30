@@ -1,0 +1,18 @@
+﻿body{ background:url(http://img01.taobaocdn.com/tps/i1/T117fVFFdXXXXS3VDa-20-20.jpg); background-size:10px 10px; }		
+.left_bar{ height:48px; float:left; width:4px; background:url(http://img04.taobaocdn.com/tps/i4/T1YkLOFJVbXXcx78rd-16-121.jpg) no-repeat right 0; background-size:100% 100%;}
+.right_bar{ height:48px; float:right; width:4px; background:url(http://img03.taobaocdn.com/tps/i3/T19XjSFO8aXXcx78rd-16-121.jpg) no-repeat; background-size:100% 100%; }
+.right_bar_v{ height:48px; float:right; width:4px; background:url(http://img04.taobaocdn.com/tps/i4/T1606TFLtaXXcx78rd-16-121.jpg) no-repeat; background-size:100% 100%; }
+.left_bg{ float:left; background:url(http://img03.taobaocdn.com/tps/i3/T1ABHUFPVXXXaSFcjX-2-121.jpg) repeat-x; background-size:100% 100%; min-width:221px; float:left; white-space:nowrap; overflow:hidden; }
+.right_1{ float:left; background:url(http://img02.taobaocdn.com/tps/i2/T1pYPTFKdaXXaSFcjX-2-121.jpg) repeat-x; background-size:100% 100%;}
+.right_2{ float:left; background:url(http://img04.taobaocdn.com/tps/i4/T1dXnWFFFXXXaSFcjX-2-121.jpg) repeat-x; background-size:100% 100%; padding:0 5px 0 10px; }
+.right_1_v{ float:left; background:url(http://img02.taobaocdn.com/tps/i2/T1XAHOFQFbXXXLVBQ9-1-121.jpg) repeat-x; background-size:100% 100%; }
+.right_2_v{ float:left; background:url(http://img02.taobaocdn.com/tps/i2/T17xHQFJ0bXXXLVBQ9-1-121.jpg) repeat-x; background-size:100% 100%; padding:0 5px 0 10px;}		
+.tables{ width:100%; margin-bottom: 20px; font-family:"黑体";}		
+.tables li{ margin-bottom: 10px; height:48px; line-height:48px; background:url(http://img03.taobaocdn.com/tps/i3/T1ABHUFPVXXXaSFcjX-2-121.jpg) repeat-x; background-size:100% 100%; font-family:"黑体"; letter-spacing:-1px; font-size:18px; }
+.nickName{ background:url(http://gtms03.alicdn.com/tps/i3/TB1bzSTGFXXXXbsXpXXjALAHXXX-48-44.png) no-repeat 0 15px; background-size:21px 18px; padding-left:25px; margin-right: 5px; margin-left:5px; float:left;  }
+.norName{ background:url(http://gtms04.alicdn.com/tps/i4/TB1tX.AGVXXXXXZXXXXUt7WJFXX-93-82.png) no-repeat 0 14px; background-size:21px 18px; padding-left:25px; margin-right: 5px; margin-left:5px; float:left  }
+#view-list{ width:615px; margin-left:5px; }
+.leftTime{ width:90px; font-size:30px; }
+.day{ width:60px; font-size:25px; }
+.left_bg{ width:440px; }
+.show1{ font-size:12px; line-height:23px; }

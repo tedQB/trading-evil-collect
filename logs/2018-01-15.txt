@@ -1,0 +1,50 @@
+Time : 16:38:01
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'weixinName' in 'field list'
+Raw SQL : INSERT INTO
+  evil(weixinName,nickName,luruTime,evilTime,evilType,evilDetail) VALUES(:weixinName,:nickName,:luruTime,:evilTime,:evilType,:evilDetail)
+
+Time : 16:37:49
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'weixinName' in 'field list'
+Raw SQL : INSERT INTO
+  evil(weixinName,nickName,luruTime,evilTime,evilType,evilDetail) VALUES(:weixinName,:nickName,:luruTime,:evilTime,:evilType,:evilDetail)
+
+Time : 16:25:12
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : UPDATE evil SET evilName = :evilName  WHERE id = :id
+
+Time : 16:18:27
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : UPDATE evil SET evilName = :evilName  WHERE id = :id
+
+Time : 16:17:47
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : UPDATE evil SET evilName = :evilName  WHERE id = :id
+
+Time : 08:05:04
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jiese360.garbage' doesn't exist
+Raw SQL : SELECT * FROM garbage where leftTime>0 ORDER BY id desc
+
+Time : 08:02:57
+SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'evilTime' at row 1
+Raw SQL : INSERT INTO
+  evil(weixinName,nickName,luruTime,evilTime,evilType,evilDetail) VALUES(:weixinName,:nickName,:luruTime,:evilTime,:evilType,:evilDetail)
+
+Time : 08:02:38
+SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'evilTime' at row 1
+Raw SQL : INSERT INTO
+  evil(weixinName,nickName,luruTime,evilTime,evilType,evilDetail) VALUES(:weixinName,:nickName,:luruTime,:evilTime,:evilType,:evilDetail)
+
+Time : 07:58:13
+SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'evilTime' at row 1
+Raw SQL : INSERT INTO
+  evil(weixinName,nickName,luruTime,evilTime,evilType,evilDetail) VALUES(:weixinName,:nickName,:luruTime,:evilTime,:evilType,:evilDetail)
+
+Time : 07:42:50
+SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '' for column 'evilTime' at row 1
+Raw SQL : INSERT INTO
+  evil(weixinName,nickName,luruTime,evilTime,evilType,evilDetail) VALUES(:weixinName,:nickName,:luruTime,:evilTime,:evilType,:evilDetail)
+
+Time : 07:38:16
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'evilTime' in 'field list'
+Raw SQL : INSERT INTO
+  bang(weixinName,nickName,luruTime,evilTime,evilType,evilDetail) VALUES(:weixinName,:nickName,:luruTime,:evilTime,:evilType,:evilDetail)
