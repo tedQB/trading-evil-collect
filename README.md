@@ -97,4 +97,4 @@ mac 可使用 MAMP PRO 进行预览
 
 ## License
 
-[GPL](https://github.com/bailicangdu/node-elm/blob/master/COPYING)
+[GPL](https://raw.githubusercontent.com/tedQB/trading-evil-collect/master/COPYING)
