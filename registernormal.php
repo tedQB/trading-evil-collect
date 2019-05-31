@@ -12,7 +12,7 @@
 		.input-group{margin:5px 0;}
 	</style>
 </head>
-	<h1>登陆戒色榜单</h1>
+	<h1>登陆养生榜单</h1>
 	<body>
 		<form role="form" method="post" id="test-form">
 			  <div class="input-group">
@@ -24,20 +24,20 @@
 			   	<input type="text" class="form-control" id="name" placeholder="本人姓名" />
 			  </div>
 			  <div class="input-group">
-			    <label for="nickName" class="input-group-addon">戒色榜姓名</label>
-			    <input type="text" class="form-control" id="nickName" placeholder="戒色榜姓名">
+			    <label for="nickName" class="input-group-addon">养生榜姓名</label>
+			    <input type="text" class="form-control" id="nickName" placeholder="养生榜姓名">
 			  </div>
 			  <div class="input-group">
 			    <label for="luruTime" class="input-group-addon">录入时间</label>
 			   	<input id="luruTime" type="text" placeholder="录入时间" class="form-control" placeholder="录入时间" /><br />
 			  </div>
 			  <div class="input-group">
-			    <label for="jieseTime" class="input-group-addon">戒色时间</label>
-			    <input type="text" class="form-control" id="jieseTime" placeholder="戒色时间" value="120">
+			    <label for="jieseTime" class="input-group-addon">养生时间</label>
+			    <input type="text" class="form-control" id="jieseTime" placeholder="养生时间" value="120">
 			  </div>
 			  <div class="input-group">
-			    <label for="endTime" class="input-group-addon">戒色结束时间</label>
-			    <input type="text" class="form-control" id="endTime" placeholder="戒色结束时间" value="">
+			    <label for="endTime" class="input-group-addon">养生结束时间</label>
+			    <input type="text" class="form-control" id="endTime" placeholder="养生结束时间" value="">
 			  </div>			  
 			  <button type="button" class="btn btn-default" id="submitBtn" >Submit</button>
 			</form>

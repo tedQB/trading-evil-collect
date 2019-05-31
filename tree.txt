@@ -1,0 +1,159 @@
+.
+├── add.php
+├── Db.class.php
+├── login.php
+├── 2018-01-16.txt
+├── index.html
+├── app.php
+├── evilHandleChange.php
+├── main.php
+├── chat
+│   ├── chat3.html
+│   ├── JSON_lineWithTrendLines.html
+│   └── amcharts
+│       ├── radar.js
+│       ├── pie.js
+│       ├── patterns
+│       │   ├── chalk
+│       │   │   ├── pattern4.jpg
+│       │   │   ├── pattern5.jpg
+│       │   │   ├── pattern6.jpg
+│       │   │   ├── pattern2.jpg
+│       │   │   ├── pattern3.jpg
+│       │   │   ├── pattern1.jpg
+│       │   │   └── pattern1r.jpg
+│       │   ├── white
+│       │   │   ├── pattern18.png
+│       │   │   ├── pattern19.png
+│       │   │   ├── pattern21.png
+│       │   │   ├── pattern20.png
+│       │   │   ├── pattern8.png
+│       │   │   ├── pattern9.png
+│       │   │   ├── pattern4.png
+│       │   │   ├── pattern5.png
+│       │   │   ├── pattern7.png
+│       │   │   ├── pattern6.png
+│       │   │   ├── pattern2.png
+│       │   │   ├── pattern3.png
+│       │   │   ├── pattern1.png
+│       │   │   ├── pattern11.png
+│       │   │   ├── pattern10.png
+│       │   │   ├── pattern12.png
+│       │   │   ├── pattern13.png
+│       │   │   ├── pattern17.png
+│       │   │   ├── pattern16.png
+│       │   │   ├── pattern14.png
+│       │   │   └── pattern15.png
+│       │   └── black
+│       │       ├── pattern18.png
+│       │       ├── pattern19.png
+│       │       ├── pattern21.png
+│       │       ├── pattern20.png
+│       │       ├── pattern8.png
+│       │       ├── pattern9.png
+│       │       ├── pattern4.png
+│       │       ├── pattern5.png
+│       │       ├── pattern7.png
+│       │       ├── pattern6.png
+│       │       ├── pattern2.png
+│       │       ├── pattern3.png
+│       │       ├── pattern1.png
+│       │       ├── pattern11.png
+│       │       ├── pattern10.png
+│       │       ├── pattern12.png
+│       │       ├── pattern13.png
+│       │       ├── pattern17.png
+│       │       ├── pattern16.png
+│       │       ├── pattern14.png
+│       │       └── pattern15.png
+│       ├── images
+│       │   ├── exportWhite.png
+│       │   ├── lens.png
+│       │   ├── export.png
+│       │   ├── lensWhite.png
+│       │   ├── dragIconHBlack.gif
+│       │   ├── dragIconBlack.gif
+│       │   ├── dragIcon.gif
+│       │   └── dragIconH.gif
+│       ├── charts-amcharts.js
+│       ├── gauge.js
+│       ├── amcharts.js
+│       ├── xy.js
+│       ├── lang
+│       │   ├── pt.js
+│       │   ├── lv.js
+│       │   ├── pl.js
+│       │   ├── mn.js
+│       │   ├── is.js
+│       │   ├── hr.js
+│       │   ├── fi.js
+│       │   ├── th.js
+│       │   ├── ru.js
+│       │   ├── mk.js
+│       │   ├── no.js
+│       │   ├── bg.js
+│       │   ├── id.js
+│       │   ├── az.js
+│       │   ├── de.js
+│       │   ├── fr.js
+│       │   ├── nl.js
+│       │   ├── hu.js
+│       │   ├── mt.js
+│       │   ├── lt.js
+│       │   ├── fo.js
+│       │   ├── sk.js
+│       │   ├── it.js
+│       │   ├── es.js
+│       │   ├── ro.js
+│       │   ├── rw.js
+│       │   ├── tr.js
+│       │   └── so.js
+│       ├── exporting
+│       │   ├── canvg.js
+│       │   ├── filesaver.js
+│       │   ├── jspdf.js
+│       │   ├── amexport.js
+│       │   ├── jspdf.plugin.addimage.js
+│       │   └── rgbcolor.js
+│       ├── funnel.js
+│       ├── metronic.js
+│       ├── themes
+│       │   ├── chalk.js
+│       │   ├── black.js
+│       │   ├── light.js
+│       │   ├── patterns.js
+│       │   └── dark.js
+│       └── serial.js
+├── evilDetailChange.php
+├── easyCRUD
+│   ├── easyCRUD.class.php
+│   ├── index.php
+│   └── Person.class.php
+├── mimi.php
+├── evilUp.php
+├── out.php
+├── login.html
+├── registernormal.php
+├── ZeroClipboard.js
+├── collectData.php
+├── README.md
+├── editUp.php
+├── 1.html
+├── settings.ini.php
+├── logs
+│   ├── 2018-01-15.txt
+│   ├── 2018-01-16.txt
+│   └── 2018-03-14.txt
+├── deleteId.php
+├── evilEffectChange.php
+├── settings.ini3.php
+├── settings.ini2.php
+├── edit.php
+├── evilCodeChange.php
+├── tree.txt
+├── Log.class.php
+├── pc.css
+├── evilNameChange.php
+└── phone.css
+
+12 directories, 144 files

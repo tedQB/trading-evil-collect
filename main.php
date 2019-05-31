@@ -30,7 +30,7 @@ echo $_SESSION['username'];
 		
 		echo "<a href='mimi.php?action=logout'>注销</a><br />"; 
 		echo "<a href='add.php'>添加</a><br />";
-		echo "<a href='out.php'>戒色榜单</a>";
+		echo "<a href='out.php'>养生榜单</a>";
 		
 	}else{ 
 		echo "您没有权限访问本页面"; 

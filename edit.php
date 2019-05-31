@@ -51,11 +51,11 @@
 			   	<input type="text" class="form-control" id="name" value="<?=$person['name']?>" />
 			  </div>
 			  <div class="input-group">
-			    <label for="nickName" class="input-group-addon">戒色榜姓名</label>
+			    <label for="nickName" class="input-group-addon">养生榜姓名</label>
 			    <input type="text" class="form-control" id="nickName" value="<?=$person['nickName']?>" />
 			  </div>
 			  <div class="input-group">
-			    <label for="jieseTime" class="input-group-addon">戒色时间</label>
+			    <label for="jieseTime" class="input-group-addon">养生时间</label>
 			    <input type="text" class="form-control" id="jieseTime" value="<?=$person['jieseTime']?>" />
 			  </div>			  
 			  <div class="input-group">
@@ -63,8 +63,8 @@
 			   	<input id="luruTime" type="text" placeholder="录入时间" class="form-control" value="<?=$person['luruTime']?>" />
 			  </div>			  
 			  <div class="input-group">
-			    <label for="endTime" class="input-group-addon">戒色结束时间</label>
-			    <input type="text" class="form-control" id="endTime" placeholder="戒色结束时间" value="<?=$person['endTime']?>" />
+			    <label for="endTime" class="input-group-addon">养生结束时间</label>
+			    <input type="text" class="form-control" id="endTime" placeholder="养生结束时间" value="<?=$person['endTime']?>" />
 			  </div>
 			  <div class="input-group">
 			    <label for="leftTime" class="input-group-addon">剩余天数</label>
