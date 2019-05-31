@@ -9,7 +9,7 @@ __注：此项目不用于任何商业用途。__
 
 >  如果对您对此项目有兴趣，可以点 "Star" 支持一下 谢谢！
 
->  开发环境 : macOS 10.13.6  PHP 7.1.23 
+>  开发环境 : macOS 10.13.6  PHP 7.1.23 
 
 >  部署环境 :
 
@@ -29,20 +29,20 @@ php + mysql + seajs + aralejs + es5 + bootstrap
 ```
 git clone git@github.com:tedQB/trading-evil-collect.git  
 
-mac 可使用 MAMP PRO 进行预览
+mac 可使用 MAMP PRO 进行本地开发
 
 ```
 
 
 ## 目标功能
 
-- [x] 添加股票代码 -- 完成
+- [x] 添加股票代码 -- 完成
 - [x] 添加股票名称 -- 完成
 - [x] 添加劣迹事件 -- 完成
 - [x] 添加事件后续影响 -- 完成
-- [x] 添加公司公关内容 -- 完成
+- [x] 添加公司公关内容 -- 完成
 - [x] 管理员登陆 -- 完成
-- [x] 处罚信息内容修改-- 完成
+- [x] 处罚信息内容修改-- 完成
 - [x] 部署上线 -- 完成
 
 
@@ -55,7 +55,7 @@ mac 可使用 MAMP PRO 进行预览
 ```
 .
 .
-├── add.php                       添加信息
+├── add.php                       添加信息
 ├── Db.class.php                  数据连接模型
 ├── login.php                     登陆  
 ├── index.html                    主页
@@ -71,18 +71,18 @@ mac 可使用 MAMP PRO 进行预览
 ├── evilUp.php                    股票信息提交接口
 ├── out.php                       内部管理主页
 ├── login.html                    用户登陆出错跳转
-├── registernormal.php            注册            
-├── collectData.php               数据收集接口
+├── registernormal.php            注册            
+├── collectData.php               数据收集接口
 ├── README.md   
 ├── editUp.php                    编辑接口
-├── settings.ini.php              数据库配置文件
+├── settings.ini.php              数据库配置文件
 ├── logs                          日志文件
 │   ├── 2018-01-15.txt
 │   ├── 2018-01-16.txt
 │   └── 2018-03-14.txt
-├── deleteId.php                  删除接口
-├── evilEffectChange.php          影响修改接口
-├── edit.php                      编辑页面
+├── deleteId.php                  删除接口
+├── evilEffectChange.php          影响修改接口
+├── edit.php                      编辑页面
 ├── evilCodeChange.php            股票代码修改接口
 ├── tree.txt
 ├── Log.class.php                 日志
