@@ -157,3 +157,5 @@
 └── phone.css
 
 12 directories, 144 files
+
+Creating a new branch is quick AND simple.
